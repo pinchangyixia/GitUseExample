@@ -21,6 +21,9 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    func sayWellcome() {
+        print("Wellcome to China")
+    }
 
 }
 

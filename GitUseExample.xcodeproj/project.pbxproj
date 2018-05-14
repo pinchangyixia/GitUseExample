@@ -13,6 +13,7 @@
 		0ED8A30A20A96872000BAB59 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0ED8A30920A96872000BAB59 /* Assets.xcassets */; };
 		0ED8A30D20A96872000BAB59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0ED8A30B20A96872000BAB59 /* LaunchScreen.storyboard */; };
 		0ED8A31520A96907000BAB59 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED8A31420A96907000BAB59 /* NewViewController.swift */; };
+		0ED8A31720A979A4000BAB59 /* NewTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED8A31620A979A4000BAB59 /* NewTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0ED8A30C20A96872000BAB59 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0ED8A30E20A96872000BAB59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0ED8A31420A96907000BAB59 /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
+		0ED8A31620A979A4000BAB59 /* NewTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0ED8A30220A96872000BAB59 /* AppDelegate.swift */,
 				0ED8A31420A96907000BAB59 /* NewViewController.swift */,
 				0ED8A30420A96872000BAB59 /* ViewController.swift */,
+				0ED8A31620A979A4000BAB59 /* NewTableViewController.swift */,
 				0ED8A30620A96872000BAB59 /* Main.storyboard */,
 				0ED8A30920A96872000BAB59 /* Assets.xcassets */,
 				0ED8A30B20A96872000BAB59 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0ED8A31720A979A4000BAB59 /* NewTableViewController.swift in Sources */,
 				0ED8A31520A96907000BAB59 /* NewViewController.swift in Sources */,
 				0ED8A30520A96872000BAB59 /* ViewController.swift in Sources */,
 				0ED8A30320A96872000BAB59 /* AppDelegate.swift in Sources */,
